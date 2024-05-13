@@ -15,7 +15,7 @@ The rules of the Game of Life with Zombies are as follows:
 
 ## How to Use
 
-To run the program, compile the Haskell code provided (`game_of_life-zombies.hs`) using the GHC compiler. Then, execute the compiled program to start the simulation of the Game of Life with Zombies. It will then prompt you to enter the percentage of humans in the initial grid (0-1). After that, a random initial grid will be generated and the simulation will update until either a stable state is reached or all the humans die, in which case it will print the number of generations humans survived.
+To run the program, compile the Haskell code provided (`game_of_life-zombies.hs`) using the GHC compiler. Then, execute the compiled program to start the simulation of the Game of Life with Zombies. It will then prompt you to enter the percentage of humans in the initial grid (0-1). After that, a random initial grid will be generated (in which cells represented by an H are human live cells, cells represented by a Z are zombie cells, and empty cells are dead). The simulation will update until either a stable state is reached or all the humans die, in which case it will print the number of generations humans survived.
 
 ## Dependencies
 
