@@ -15,7 +15,7 @@ The rules of the Game of Life with Zombies are as follows:
 
 ## How to Use
 
-To run the program, compile the Haskell code provided (`game_of_life-zombi3es.hs`) using the GHC compiler. Then, execute the compiled program to start the simulation of the Game of Life with Zombies
+To run the program, compile the Haskell code provided (`game_of_life-zombies.hs`) using the GHC compiler. Then, execute the compiled program to start the simulation of the Game of Life with Zombies
 
 ## Dependencies
 
